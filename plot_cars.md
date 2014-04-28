@@ -1,8 +1,8 @@
 **name**
-plot cars
+new plot cars
 
 **Description**
-A simple script to plot the car dataset of R
+A simple script to plot the car dataset of R again
 
 **Usage**
 call the function line by line 
